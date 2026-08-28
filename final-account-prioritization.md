@@ -1,4 +1,4 @@
-# Final Account Prioritization
+### Final Account Prioritization
 
 | Company | Q-Commerce Score | Visibility Score | Growth Score | Revenue Score | Funding Score | Total ICP Score | Tier |
 |---|---:|---:|---:|---:|---:|---:|---|
